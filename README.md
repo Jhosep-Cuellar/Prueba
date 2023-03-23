@@ -7,4 +7,4 @@ Este poyecto esta desarrollado para la **Universidad Continental**
 | Header | Title |
 | Paragraph | Text |
 
-![alt text](image.jpg)
+![logo prueba](https://github.com/Jhosep-Cuellar/Prueba/blob/main/sss.jpg)
